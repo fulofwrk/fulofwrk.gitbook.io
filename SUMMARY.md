@@ -21,6 +21,7 @@
 
 ## Git
 
-* [Git](git/git.md)
+* [Git](git/git/README.md)
+  * [Git 초기화 설정](git/git/git.md)
 * [Github](git/github.md)
 * [Gitbook](git/gitbook.md)
