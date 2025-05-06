@@ -2,11 +2,11 @@
 
 ---
 
-
+<br>
 
 본 저자는 GitHub에 GitHub 블로그 저장소와 GitBook 블로그 저장소를 미리 만들었다. 
 
-![load-github-repository001](../../.gitbook/assets/images/git/load-github-repository/load-github-repository.001.png)
+![](../../.gitbook/assets/images/git/load-github-repository/load-github-repository.001.png)
 
 하지만 본 저자의 로컬 pc에는 해당 저장소가 저장되어 있지 않기 때문에 GitHub 저장소로부터 정보를 가져 올 필요가 있다. 
 
@@ -31,13 +31,13 @@ git config --global --unset user.email
 git clone https://github.com/fulofwrk/fulofwrk.github.io.git
 ```
 
-![load-github-repository002](../../.gitbook/assets/images/git/load-github-repository/load-github-repository.002.png)
+![](../../.gitbook/assets/images/git/load-github-repository/load-github-repository.002.png)
 
 ```bash
 # Clone GitBook repository
 git clone https://github.com/fulofwrk/fulofwrk.gitbook.io.git
 ```
 
-![load-github-repository003](../../.gitbook/assets/images/git/load-github-repository/load-github-repository.003.png)
+![](../../.gitbook/assets/images/git/load-github-repository/load-github-repository.003.png)
 
 ### 
