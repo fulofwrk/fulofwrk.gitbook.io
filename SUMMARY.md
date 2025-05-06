@@ -11,7 +11,8 @@
 
 ## Data Analytics
 
-* [Paper](data-analytics/paper.md)
+* [A/B Test](data-analytics/ab-test/README.md)
+  * [Book: A/B Test](data-analytics/ab-test/book-ab-test/README.md)
 
 ## Language
 
