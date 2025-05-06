@@ -23,6 +23,6 @@
 
 * [Git](git/git/README.md)
   * [Git 초기화 설정](git/git/initialization.md)
-  * [GitHub 저장소 불러오기](git/git/github.md)
+  * [GitHub 저장소 불러오기](git/git/load-github-repository.md)
 * [Github](git/github.md)
 * [Gitbook](git/gitbook.md)
