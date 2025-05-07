@@ -6,6 +6,8 @@
 ## Risk Management
 
 * [Basel](risk-management/basel/README.md)
+  * [Book: 알기 쉬운 신BIS](risk-management/basel/book-easy-to-understand-new-bis/README.md)
+    * [1.1. 신BIS협약의 개요](risk-management/basel/book-easy-to-understand-new-bis/book-easy-to-understand-new-bis-01-01.md)
 * [Products](risk-management/products/README.md)
 * [Indicator & Monitoring](risk-management/indicator-and-monitoring/README.md)
 * [Credit Analytics](risk-management/credit-analytics/README.md)
