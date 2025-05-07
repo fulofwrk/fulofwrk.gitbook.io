@@ -5,9 +5,11 @@
 
 ## Risk Management
 
-* [Indicator & Monitoring](risk-management/indicator-and-monitoring.md)
-* [Credit Analytics](risk-management/credit-analytics.md)
-* [Credit Scoring System](risk-management/credit-scoring-system.md)
+* [Basel](risk-management/basel/README.md)
+* [Products](risk-management/products/README.md)
+* [Indicator & Monitoring](risk-management/indicator-and-monitoring/README.md)
+* [Credit Analytics](risk-management/credit-analytics/README.md)
+* [Credit Scoring System](risk-management/credit-scoring-system/README.md)
 
 ## Data Analytics
 
