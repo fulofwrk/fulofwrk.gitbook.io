@@ -8,9 +8,11 @@ date: "2025년 05월 07일"
 
 # [Programmers] SQL 고득점 Kit, 13118번 문제
 
----
+Last edited : 2025년 05월 07일, Created : 2025년 05월 07일
 
-[131118번 문제](https://school.programmers.co.kr/learn/courses/30/lessons/131118)
+[Link : 131118번 문제](https://school.programmers.co.kr/learn/courses/30/lessons/131118)
+
+---
 
 <br>
 
