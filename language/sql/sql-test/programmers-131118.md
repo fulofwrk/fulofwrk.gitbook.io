@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "[Programmers] SQL 고득점 Kit"
+title: "[Programmers] SQL 고득점 Kit - 131118번"
 author: "FulOfWrk"
 date: "2025년 05월 07일"
 
@@ -129,8 +129,7 @@ LEFT JOIN (
     GROUP BY REST_ID
 ) AS RR ON RR.REST_ID=RI.REST_ID
 WHERE RI.ADDRESS LIKE "서울%" AND RR.SCORE > 0
-ORDER BY SCORE DESC, RI.FAVORITES DESC
-;
+ORDER BY SCORE DESC, RI.FAVORITES DESC;
 
 ```
 
