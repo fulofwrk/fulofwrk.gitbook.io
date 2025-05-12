@@ -5,6 +5,8 @@ author: FulOfWrk
 date: "2025년 05월 12일"
 ---
 
+# [Book] 알기 쉬운 신BIS (제1편 : 신용리스크)
+
 # 2. 표준방법이란? 제1절 위험가중치 적용
 
 Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
