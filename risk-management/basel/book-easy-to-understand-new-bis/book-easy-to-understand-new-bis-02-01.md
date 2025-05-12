@@ -2,54 +2,238 @@
 layout: page
 title: "제1절 위험가중치 적용, 2. 표준방법이란?, [Book] 알기 쉬운 신BIS (제1편 : 신용리스크)"
 author: FulOfWrk
-date: "2025년 05월 09일"
+date: "2025년 05월 12일"
 ---
 
 # 2. 표준방법이란? 제1절 위험가중치 적용
 
-Last edited : 2025년 05월 09일, Created : 2025년 05월 09일
+Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
 
 ---
 
 <br>
 
-# 2. 표준방법이란?
+## 11. 정부 및 중앙은행에 대한 채권
 
-<br>
+각국 정부 및 중앙은행에 대한 채권을 보유하고 있는 경우 해당 국가의 표준신용등급 및 수출신용기관의 국별신용도등급에 따라 위험가중치를 적용한다. 
 
-표준방법(Standardized Approach)이란 내부 신용평가모형을 운영하기 어려운 중소형 은행이 손쉽게 이용할 수 있도록 외부신용평가기관의 신용등급을 활용하여 위험가중치를 차등화한 방법을 말한다. 
+- 익스포져의 분류 : 각국의 정부 및 중앙은행
+- 위험가중치 : 국가에 대한 적격 외부신용평가기관의 신용등급 평가결과(⚠️`국가 표준신용등급`) 및 ⚠️`수출신용기관의 국별신용도등급`에 따라 다음과 같이 적용
+  - 대한민국 통화로 표시된 대한민국 정부 및 한국은행에 대한 채권에 대해서는 0%의 위험가중치를 적용
 
-- 차주 및 거래유형에 따라 위험가중치를 일률적으로 적용하는 현행BIS 기준과 달리 표준방법은 적격 외부신용평가기관의 신용등급을 이용하여 위험가중치를 세분화
-- 외부신용등급에 따라 위험가중치가 차등화된다는 점 외에 표준방법은 현행BIS 기준과 기본적으로 유사
+<table>
+    <tr>
+        <td align=center>국가 표준신용등급</td>
+        <td align=center>AAA~AA-</td>
+        <td align=center>A+~A-</td>
+        <td align=center>BBB+~BBB-</td>
+        <td align=center>BB+~B-</td>
+        <td align=center>B- 미만</td>
+        <td align=center>무등급</td>
+    </tr>
+    <tr>
+        <td align=center>수출신용기관의 국별신용도등급</td>
+        <td align=center>0~1</td>
+        <td align=center>2</td>
+        <td align=center>3</td>
+        <td align=center>4~6</td>
+        <td align=center>7</td>
+        <td align=center>무등급</td>
+    </tr>
+    <tr>
+        <td align=center>위험가중치</td>
+        <td align=center>0%</td>
+        <td align=center>20%</td>
+        <td align=center>50%</td>
+        <td align=center>100%</td>
+        <td align=center>150%</td>
+        <td align=center>100%</td>
+    </tr>
+</table>
 
-표준방법에 의한 위험가중자산 산출
+- 국제결제은행(BIS), 국제통화기금(IMF), 유럽중앙은행(ECB) 및 유럽연합(EC)에 대한 채권은 0%의 위험가중치 적용
 
-- 표준방법에 의하면 위험가중자산은 ⚠️`익스포져`에 위험가중치를 곱하여 구하게 되는데 
-- 먼저, 위험가중치는 차주에 대한 적격 외부신용평가기관의 신용등급에 따라 결정되며 
-- 다음, 익스포져는 ⚠️`난내·외`를 구분하여 별도로 정해진 방법에 따라 결정됨 
-- 이밖에, 일정한 요건을 충족하는 보증, 담보 등이 있는 경우 위험가중치를 대체하거나 익스포져 금액을 경감하는 등의 방법으로 위험을 경감
+<details>
+    <summary>👓예시</summary>
+    <br>
+    <ul>
+        <li>
+            은행이 달러화 미국재무성채권을 1,000억원 보유시
+        </li>
+        <blockquote>
+            > 미국의 국가신용등급은 AAA(S&P)<br>
+            > 상기 익스포져에 적용할 위험가중치는 0%
+        </blockquote>>
+        <li>
+            은행이 한국은행이 발행한 통화안정증권을 1,000억원 보유시
+        </li>
+        <blockquote>
+            > 우리나라의 국가신용등급은 A(S&P)<br>
+            > 단서조항에 의해 상기 익스포져에 적용할 위험가중치는 0%
+        </blockquote>
+    </ul>
+</details>
 
 <details>
     <summary>💡My opinion or Question</summary>
     <br>
     <ul>
         <li>
-            O.1. "익스포져"에 대한 명확한 개념 정리 필요<br>
+            O.1. "국가 표준신용등급"에 대한 명확한 개념 정리 필요<br>
         </li>
-        <blockquote></blockquote>
+        <blockquote></blockquote>>
         <li>
-            O.2. "난내·외"에 대한 개념 정리 필요<br>
+            O.1. "수출신용기관의 국별신용도등급"에 대한 명확한 개념 정리 필요<br>
+        </li>
+        <blockquote></blockquote>>
+    </ul>
+</details>
+<br>
+
+## 12. 공공기간에 대한 채권
+
+공공기관에 대한 채권을 보유하고 있는 경우 표준방법에서 정하고 있는 공공기관 분류기준에 따라 적절한 위험가중치를 적용한다. 
+
+- 공공기간의 분류 및 처리방법
+
+![](../../../.gitbook/assets/images/risk-management/basel/book-easy-to-understand-new-bis/book-easy-to-understand-new-bis.02.01.png)
+
+- 위험가중치(공공기관에 대한 채권의 위험가중치)
+
+<table>
+    <tr>
+        <td align=center>국가 표준신용등급</td>
+        <td align=center>AAA~AA-</td>
+        <td align=center>A+~A-</td>
+        <td align=center>BBB+~BBB-</td>
+        <td align=center>BB+~B-</td>
+        <td align=center>B- 미만</td>
+        <td align=center>무등급</td>
+    </tr>
+    <tr>
+        <td align=center>수출신용기관의 국별신용도등급</td>
+        <td align=center>0~1</td>
+        <td align=center>2</td>
+        <td align=center>3</td>
+        <td align=center>4~6</td>
+        <td align=center>7</td>
+        <td align=center>무등급</td>
+    </tr>
+    <tr>
+        <td align=center>위험가중치</td>
+        <td align=center>20%</td>
+        <td align=center>50%</td>
+        <td align=center>100%</td>
+        <td align=center>100%</td>
+        <td align=center>150%</td>
+        <td align=center>100%</td>
+    </tr>
+</table>
+
+<details>
+    <summary>👓예시</summary>
+    <br>
+    <ul>
+        <li>
+            은행이 한국주택금융공사에 대해 100억원의 원화채권을 보유하고 있는 경우
         </li>
         <blockquote>
-            [난외거래](난외거래에 더 알고 싶으면, <a href="https://language.tistory.com/165">link</a>)<br>
-            은행의 권리·의무가 확정되지 않아 재무상태표상 자산·부채로 기록되지 않는 거래를 의미한다. 대표적인 난외거래로는 신용 대체거래(채무보증), 특정 거래 관련 우발채무(계약이행보증, 입찰보증, 환급보증 등), 무역금융(신용장), 증권인수보증(NIF; Note, Issuance Facility), 금리 및 외환 관련 파생상품거래의 신용리스크 상당액 등을 들 수 있다. <br>
-            난외거래는 은행의 수익성에 기여하고 효율적인 리스크 이전을 가능하게 해주는 등의 장점이 있지만, 복잡한 거래구조 등으로 인하여 방만하게 취급될 경우 리스크 요인으로 작용할 수 있다. <br><br>
-            [익스포져에서 난내·외를 구분하는 이유]<br>
-            익스포져는 리스크에 노출되어 있는 금액을 의미한다. 노출된 리스크 유형에 따라 시장리스크 익스포져, 신용리스크 익스포져 등으로 구분된다. 시장리스크 익스포져는 금리, 환율, 주가 등의 변동에 따라 가치가 변화하는 자산의 총계를, 신용리스크 익스포져는 거래상대방의 신용도 하락, 채무불이행 등에 따른 경제적 손실 위험에 노출된 금액을 의미한다. <br>
-            익스포져는 장부가액보다 포괄적인 개념으로 사용되는데, 따라서 난내자산은 대차대조표(재무상태표) 금액 합계가 통상 익스포져액과 동일하나 난외항목의 경우에는 난외항목이 대차재조표상의 자산으로 현실화될 가능성 등을 나타내는 신용환산율을 계약금액에 곱한 금액이 익스포져 금액에 포함하기 때문에 다르게 봐야 한다. 
+            > 한국주택금융공사는 특별법에 의해 설립된 특수공공법인으로서 정부의 ⚠️결손보전이 이루어짐<br>
+            > 정부에 대한 채권의 위험가중치를 적용하여 0%를 적용
+        </blockquote>>
+        <li>
+            은행이 부산교통공단에 대해 100억원의 원화채권을 보유하고 있는 경우
+        </li>
+        <blockquote>
+            > 부산교통공단은 특별법에 의해 설립된 특수공공법인으로서 정부의 결손보전은 이루어지지 않음<br>
+            > 공공기관에 대한 채권의 위험가중치를 적용<br>
+            &nbsp;- 현재 국가신용등급(A등급)을 사용하는 경우 : 50% 위험가중치<br>
+            &nbsp;- 수출신용기관의 국별신용도등급(0등급)을 사용하는 경우 : 20% 위험가중치
         </blockquote>
     </ul>
 </details>
+
+<details>
+    <summary>💡My opinion or Question</summary>
+    <br>
+    <ul>
+        <li>
+            O.1. "결손보전"에 대한 명확한 개념 정리 필요<br>
+        </li>
+        <blockquote></blockquote>
+        </blockquote>
+    </ul>
+</details>
+
+<br>
+
+## 13. 국제개발은행에 대한 채권
+
+⚠️`국제개발은행`에 대한 채권을 보유하고 있는 경우 해당 국제개발은행의 표준신용등급에 따라 위험가중치를 적용한다. 
+
+- 국제개발은행에 대한 채권에 대해 다음의 위험가중치를 적용
+
+<table>
+    <tr>
+        <td align=center>국제개발은행 표준신용등급</td>
+        <td align=center>AAA~AA-</td>
+        <td align=center>A+~A-</td>
+        <td align=center>BBB+~BBB-</td>
+        <td align=center>BB+~B-</td>
+        <td align=center>B- 미만</td>
+        <td align=center>무등급</td>
+    </tr>
+    <tr>
+        <td align=center>위험가중치</td>
+        <td align=center>20%</td>
+        <td align=center>50%</td>
+        <td align=center>50%</td>
+        <td align=center>100%</td>
+        <td align=center>150%</td>
+        <td align=center>50%</td>
+    </tr>
+</table>
+
+- World Bank Group(IBRD, IFC, IDA, MIGA, ICSID로 구성), ADB, AfDB, EBRD, IADB, EIB, NIB, CDB, IDB, CEDB : 0% 위험가중치 적용
+
+<details>
+    <summary>💡My opinion or Question</summary>
+    <br>
+    <ul>
+        <li>
+            O.1. "국제개발은행"이란 무엇인가?<br>
+        </li>
+        <blockquote></blockquote>
+        </blockquote>
+    </ul>
+</details>
+
+<br>
+
+## 14. 기업에 대한 채권
+
+기업에 대한 채권을 보유하고 있는 경우 해당 기업의 표준신용등급에 따라 위험가중치를 적용한다. 
+
+- 기업에 대한 채권에 대해 다음과 같은 위험가중치를 적용
+
+<table>
+    <tr>
+        <td align=center>기업 표준신용등급</td>
+        <td align=center>AAA~AA-</td>
+        <td align=center>A+~A-</td>
+        <td align=center>BBB+~BB-</td>
+        <td align=center>BB- 미만</td>
+        <td align=center>무등급</td>
+    </tr>
+    <tr>
+        <td align=center>위험가중치</td>
+        <td align=center>20%</td>
+        <td align=center>50%</td>
+        <td align=center>100%</td>
+        <td align=center>150%</td>
+        <td align=center>100%</td>
+    </tr>
+</table>
 
 <br>
 
