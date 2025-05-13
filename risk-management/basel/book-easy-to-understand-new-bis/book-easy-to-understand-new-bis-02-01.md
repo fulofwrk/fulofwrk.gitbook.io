@@ -9,7 +9,7 @@ date: "2025년 05월 12일"
 
 # 2. 표준방법이란? 제1절 위험가중치 적용
 
-Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
+Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
 
 ---
 
@@ -53,6 +53,7 @@ Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
     </tr>
 </table>
 
+
 - 국제결제은행(BIS), 국제통화기금(IMF), 유럽중앙은행(ECB) 및 유럽연합(EC)에 대한 채권은 0%의 위험가중치 적용
 
 <details>
@@ -76,6 +77,7 @@ Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
     </ul>
 </details>
 
+
 <details>
     <summary>💡My opinion or Question</summary>
     <br>
@@ -90,6 +92,7 @@ Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
         <blockquote></blockquote>>
     </ul>
 </details>
+
 <br>
 
 ## 12. 공공기간에 대한 채권
@@ -98,7 +101,11 @@ Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
 
 - 공공기간의 분류 및 처리방법
 
-![](../../../.gitbook/assets/images/risk-management/basel/book-easy-to-understand-new-bis/book-easy-to-understand-new-bis.02.01.png)
+⚠️(이미지 넣기)
+
+```
+![](../../.gitbook/assets/images/risk-management/basel/book-easy-to-understand-new-bis/book-easy-to-understand-new-bis.02.01.png)
+```
 
 - 위험가중치(공공기관에 대한 채권의 위험가중치)
 
@@ -131,7 +138,6 @@ Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
         <td align=center>100%</td>
     </tr>
 </table>
-
 <details>
     <summary>👓예시</summary>
     <br>
@@ -142,7 +148,7 @@ Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
         <blockquote>
             > 한국주택금융공사는 특별법에 의해 설립된 특수공공법인으로서 정부의 ⚠️결손보전이 이루어짐<br>
             > 정부에 대한 채권의 위험가중치를 적용하여 0%를 적용
-        </blockquote>>
+        </blockquote>
         <li>
             은행이 부산교통공단에 대해 100억원의 원화채권을 보유하고 있는 경우
         </li>
@@ -155,6 +161,8 @@ Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
     </ul>
 </details>
 
+
+
 <details>
     <summary>💡My opinion or Question</summary>
     <br>
@@ -166,6 +174,7 @@ Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
         </blockquote>
     </ul>
 </details>
+
 
 <br>
 
@@ -196,6 +205,7 @@ Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
     </tr>
 </table>
 
+
 - World Bank Group(IBRD, IFC, IDA, MIGA, ICSID로 구성), ADB, AfDB, EBRD, IADB, EIB, NIB, CDB, IDB, CEDB : 0% 위험가중치 적용
 
 <details>
@@ -209,6 +219,7 @@ Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
         </blockquote>
     </ul>
 </details>
+
 
 <br>
 
@@ -237,5 +248,123 @@ Last edited : 2025년 05월 12일, Created : 2025년 05월 12일
     </tr>
 </table>
 
+
 <br>
 
+## 15. 은행, 증권사 및 종금사에 대한 채권
+
+은행, 증권사 및 종금사에 대한 채권을 보유하고 있는 경우 해당 금융회사가 속한 국가의 표준신용등급에 따른 위험가중치를 적용한다. 
+
+- 은행, 증권사 및 종금사에 대한 채권에 대해 다음의 위험가중치를 적용
+
+  <table>
+      <tr>
+          <td align=center>국가 표준신용등급</td>
+          <td align=center>AAA~AA--</td>
+          <td align=center>A+~A-</td>
+          <td align=center>BBB+~BBB-</td>
+          <td align=center>BB+~B-</td>
+          <td align=center>B- 미만</td>
+          <td align=center>무등급</td>
+      </tr>
+      <tr>
+          <td align=center>수출신용기관 국별신용도등급</td>
+          <td align=center>0~1</td>
+          <td align=center>2-</td>
+          <td align=center>3-</td>
+          <td align=center>4~6</td>
+          <td align=center>7</td>
+          <td align=center>무등급</td>
+      </tr>
+      <tr>
+          <td align=center>위험가중치</td>
+          <td align=center>20%</td>
+          <td align=center>50%</td>
+          <td align=center>100%</td>
+          <td align=center>100%</td>
+          <td align=center>150%</td>
+          <td align=center>100%</td>
+      </tr>
+  </table>
+
+- 은행, 증권사 및 종금사에 대한 채권 중 대한민국 통화로 표시되고 조달된 원만기 3개월 이하인 채권에 대해 20%의 위험가중치를 적용
+
+<details>
+    <summary>👓참고</summary>
+    <br>
+    <ul>
+        <li>신BIS협약에서는 은행에 대한 채권에 대해 두 가지 옵션 중 선택 가능</li>
+        <blockquote>> 국내 기준안 도입시 은행에 대한 채권에 대해 옵션 1 적용</blockquote>
+        <li>옵션 2의 내용은 다음과 같음</li>
+        <blockquote>> 국가의 표준신용등급 대신 은행의 표준신용등급 사용</blockquote>
+    </ul>
+    <table>
+        <tr>
+            <td align=center>은행 표준신용등급</td>
+            <td align=center>AAA~AA-</td>
+            <td align=center>A+~A-</td>
+            <td align=center>BBB+~BBB-</td>
+            <td align=center>BB+~B-</td>
+            <td align=center>B- 미만</td>
+            <td align=center>무등급</td>
+        </tr>
+        <tr>
+            <td align=center>위험가중치</td>
+            <td align=center>20%</td>
+            <td align=center>50%</td>
+            <td align=center>50%</td>
+            <td align=center>100%</td>
+            <td align=center>150%</td>
+            <td align=center>50%</td>
+        </tr>
+        <tr>
+            <td align=center>3개월 이하 채권에 대한 위험가중치</td>
+            <td align=center>20%</td>
+            <td align=center>20%</td>
+            <td align=center>20%</td>
+            <td align=center>50%</td>
+            <td align=center>150%</td>
+            <td align=center>20%</td>
+        </tr>
+    </table>
+</details>
+
+
+<br>
+
+## 16. 소매포트폴리오
+
+네 가지 기준(거래상대방, 상품, 금액, 분산도)을 모두 충족하는 익스포져를 소매포트폴리오로 분류하여 일정한 위험가중치를 적용한다. 
+
+- 소매포트폴리오에 해당하는 익스포져에 대해서는 75%의 위험가중치 적용
+- 제시된 네 가지 기준(거래상대방, 상품, 금액, 분산도)을 모두 충족해야 소매포트폴리오로 분류
+  - 거래상대방 기준 : 개인, 중소기업
+  - 상품 기준 : ⚠️`회전 한도거래` 및 한도거래 약정, 일반개인대출 및 리스, 중소기업대출 및 약정
+  - 금액 기준 : 동일차주에 대한 총 소매익스포져는 10억원 이하
+  - 분산도 기준 : 동일차주에 대한 총 소매익스포져가 전체 소매포트폴리오의 0.2% 이하
+
+<details>
+    <summary>👓예시</summary>
+    <br>
+    <ul>
+        <li>소매포트폴리오의 정의</li>
+        <blockquote>
+            은행이 중소기업에 대한 총대출액이 9억원, 해당 기업의 주식 2억원 보유. 다만, 대출액 중에서 3억원은 아파트를 담보로 제시하여 전액 담보된 경우(분사도 기준은 충족 가정) <br><br>
+            1. 거래상대방 기준 : 중소기업이므로 기준 충족 <br><br>
+            2. 상품 기준 : <br>
+            &nbsp;&nbsp;가. 주식 2억원 : 기준 미충족 → 기타 난내자산(위험가중치 100% 적용) <br>
+            &nbsp;&nbsp;나. 아파트 담보 대출 3억원 : 기준 미충족 → 주거용 부동산 담보 채권(위험가중치 35% 적용) <br>
+            &nbsp;&nbsp;다. 잔여 익스포져 6억원(중소기업 대출) : 기준 충족<br><br>
+            3. 금액 기준 : 잔여 익스포져 6억원 → 기준 충족(10억원 이하) <br><br>
+            4. 소매포트폴리오 해당 익스포져 : 6억원 <br><br>
+            5. 총 위험가중자산 <br>
+            &nbsp;&nbsp;> 주식 익스포져 : 2억원 × 100% = 2억원 <br>
+            &nbsp;&nbsp;> 주거용 부동산 담보 채권 : 3억원 × 35% = 1.05억원 <br>
+            &nbsp;&nbsp;> 소매포트폴리오 : 6억원 × 75% = 4.5억원 <br><br>
+            &nbsp;&nbsp;>> 총 위험가중자산 : 2억원 + 1.05억원 + 4.5억원 = 7.55억원 <br>
+        </blockquote>
+    </ul>
+</details>
+
+
+<br>
