@@ -52,8 +52,6 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         <td align=center>100%</td>
     </tr>
 </table>
-
-
 - 국제결제은행(BIS), 국제통화기금(IMF), 유럽중앙은행(ECB) 및 유럽연합(EC)에 대한 채권은 0%의 위험가중치 적용
 
 <details>
@@ -76,8 +74,6 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         </blockquote>
     </ul>
 </details>
-
-
 <details>
     <summary>💡My opinion or Question</summary>
     <br>
@@ -161,8 +157,6 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
     </ul>
 </details>
 
-
-
 <details>
     <summary>💡My opinion or Question</summary>
     <br>
@@ -174,8 +168,6 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         </blockquote>
     </ul>
 </details>
-
-
 <br>
 
 ## 13. 국제개발은행에 대한 채권
@@ -204,8 +196,6 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         <td align=center>50%</td>
     </tr>
 </table>
-
-
 - World Bank Group(IBRD, IFC, IDA, MIGA, ICSID로 구성), ADB, AfDB, EBRD, IADB, EIB, NIB, CDB, IDB, CEDB : 0% 위험가중치 적용
 
 <details>
@@ -219,8 +209,6 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         </blockquote>
     </ul>
 </details>
-
-
 <br>
 
 ## 14. 기업에 대한 채권
@@ -247,8 +235,6 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         <td align=center>100%</td>
     </tr>
 </table>
-
-
 <br>
 
 ## 15. 은행, 증권사 및 종금사에 대한 채권
@@ -328,8 +314,6 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         </tr>
     </table>
 </details>
-
-
 <br>
 
 ## 16. 소매포트폴리오
@@ -365,6 +349,107 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         </blockquote>
     </ul>
 </details>
+<br>
 
+## 17. 부동산 담보 채권
+
+부동산으로 전액 담보된 채권에 대해서는 담보된 부동산이 주거용인지 상업용인지 여부에 따라 위험가중치를 적용한다. 
+
+- 주거용 부동산(소유 또는 임대)에 대한 저당권 설정 등으로 전액 담보된 채권 : 35% 위험가중치 적용
+- 상업용 부동산에 대한 저당권 설정 등으로 전액 담보된 채권 : 100% 위험가중치 적용
+
+<details>
+    <summary>👓[참고]부동산에 의해 부분 담보된 채권의 처리</summary>
+    <br>
+    <ul>
+        <li>
+            표준방법에서는 부동산에 의해 부분 담보된 채권에 대한 언급이 없으므로 부분 담보된 채권은 일반채권으로 분류하여 처리
+        </li>
+        <li>
+            또한 부동산은 표준방법에서 적격 담보로 인정되지 않으므로 부분 담보된 경우 담보의 효과를 인정할 수 없음
+        </li>
+        <li>
+            예시 : 기업(중소기업 아님, 표준신용등급 A-)에 대해 10억원을 대출하고 아파트(유효담보가액 : 7억원)를 담보로 제공한 경우
+        </li>
+        <blockquote>
+			> 위험가중치 : 50%(기업에 대한 위험가중치 적용) <br>
+            > 위험가중자산 : 10억 × 50% = 5억원(담보의 효과 불인정)
+        </blockquote>
+    </ul>
+</details>
+
+
+<br>
+
+## 18. 연체채권
+
+90일 이상 연체채권에 대해서는 당해 채권 잔액 대비 특정 대손충당금 적립액 비율에 따라 위험가중치를 산출한다. 
+
+- 90일 이상 연체채권(주거용 부동산 담보채권 제외) 중 적격 보증 또는 적격 담보가 없는 부분에 대하여 다음의 위험가중치를 적용
+
+  <table>
+  	<tr>
+          <td align=center><b>특정 대손충당금 적립액</b></td>
+          <td align=center><b>위험가중치</b></td>
+      </tr>
+      <tr>
+          <td align=center>당해 채권잔액의 20% 미만*</td>
+          <td align=center>150%</td>
+      </tr>
+      <tr>
+          <td align=center>당해 채권잔액의 20% 이상 ~ 50% 미만</td>
+          <td align=center>100%</td>
+      </tr>
+      <tr>
+          <td align=center>당해 채권잔액의 15% 이상 ~ 20% 미만으로서 비적격담보에 의해 전액 담보된 채권</td>
+          <td align=center>100%</td>
+      </tr>
+      <tr>
+          <td align=center>당해 채권잔액의 50% 이상</td>
+          <td align=center>50%</td>
+      </tr>
+  </table>
+
+
+  *90일 이상 연체채권에 대해 ⚠️`일반 대손충당금`만 적립한 경우를 포함
+
+- 주거용 부동산에 의해 전액 담보된 채권이 90일 이상 연체된 경우 ⚠️`특정 대손충당금` 차감 후 잔액에 대하여 100%의 위험가중치를 적용
+
+  - 다만, 특정 대손충당금이 채권잔액의 20% 이상인 경우 특정 대손충당금 차감 후 잔액에 대해 50%의 위험가중치를 적용
+
+<details>
+    <summary>👓예시</summary>
+    <br>
+    중소기업에 대한 매출액 10억원이 91일 연체되고, 연체된 대출액 10억원 중에서 주거용부동산에 의해 전액 담보된 채권이 4억원인 경우(이외의 보증, 담보 등은 없다고 가정) 
+    <br><br>
+    <ul>
+        <li>
+            주거용부동산 담보에 대한 특정 대손충당금이 0.4억원이고, 나머지 대출액에 대한 특정 대손충당금이 2억원인 경우
+        </li>
+        <blockquote>
+            연체된 주거용부동산 담보 채권 : <br>
+            &nbsp;&nbsp;- 충당금 적립비율 : 0.4억원 / 4억원 = 10% < 20% <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;> 100% 위험가중치 적용 <br>
+            &nbsp;&nbsp;- 위험가중자산 = (4억원 - 0.4억원) × 100% = 3.6억원 <br>
+            <br>
+            연체채권 : 
+            &nbsp;&nbsp;- 충당금 적립비율 = 2억원 / (10억원 - 4억원) = 33.33% <br>
+            &nbsp;&nbsp;- 위험가중자산 = {(10억원 - 4억원) - 2억원} × 100% = 4억원 
+        </blockquote>
+        <li>
+            주거용부동산 담보에 대한 특정 대손충당금이 1억원이고 나머지 대출액에 대한 특정 대손충당금이 5억원인 경우
+        </li>
+        <blockquote>
+            연체된 주거용부동산 담보 채권 : <br>
+            &nbsp;&nbsp;- 충당금 적립비율 : 1억원 / 4억원 = 25% > 20% <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;> 50% 위험가중치 적용 <br>
+            &nbsp;&nbsp;- 위험가중자산 = (4억원 - 1억원) × 50% = 1.5억원 <br>
+            <br>
+            연체채권 : <br>
+            &nbsp;&nbsp;- 충당금 적립비율 = 5억원 / (10억원 - 4억원) = 83.33% <br>
+            &nbsp;&nbsp;- 위험가중자산 = {(10억원 - 4억원) - 5억원} × 50% = 0.5억원
+        </blockquote>
+    </ul>
+</details>
 
 <br>
