@@ -9,7 +9,7 @@ date: "2025년 05월 12일"
 
 # 2. 표준방법이란? 제1절 위험가중치 적용
 
-Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
+Last edited : 2025년 05월 15일, Created : 2025년 05월 12일
 
 ---
 
@@ -52,6 +52,8 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         <td align=center>100%</td>
     </tr>
 </table>
+
+
 - 국제결제은행(BIS), 국제통화기금(IMF), 유럽중앙은행(ECB) 및 유럽연합(EC)에 대한 채권은 0%의 위험가중치 적용
 
 <details>
@@ -74,6 +76,8 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         </blockquote>
     </ul>
 </details>
+
+
 <details>
     <summary>💡My opinion or Question</summary>
     <br>
@@ -165,9 +169,9 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
             O.1. "결손보전"에 대한 명확한 개념 정리 필요<br>
         </li>
         <blockquote></blockquote>
-        </blockquote>
     </ul>
 </details>
+
 <br>
 
 ## 13. 국제개발은행에 대한 채권
@@ -196,6 +200,8 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         <td align=center>50%</td>
     </tr>
 </table>
+
+
 - World Bank Group(IBRD, IFC, IDA, MIGA, ICSID로 구성), ADB, AfDB, EBRD, IADB, EIB, NIB, CDB, IDB, CEDB : 0% 위험가중치 적용
 
 <details>
@@ -206,9 +212,9 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
             O.1. "국제개발은행"이란 무엇인가?<br>
         </li>
         <blockquote></blockquote>
-        </blockquote>
     </ul>
 </details>
+
 <br>
 
 ## 14. 기업에 대한 채권
@@ -217,24 +223,26 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
 
 - 기업에 대한 채권에 대해 다음과 같은 위험가중치를 적용
 
-<table>
-    <tr>
-        <td align=center>기업 표준신용등급</td>
-        <td align=center>AAA~AA-</td>
-        <td align=center>A+~A-</td>
-        <td align=center>BBB+~BB-</td>
-        <td align=center>BB- 미만</td>
-        <td align=center>무등급</td>
-    </tr>
-    <tr>
-        <td align=center>위험가중치</td>
-        <td align=center>20%</td>
-        <td align=center>50%</td>
-        <td align=center>100%</td>
-        <td align=center>150%</td>
-        <td align=center>100%</td>
-    </tr>
-</table>
+  <table>
+      <tr>
+          <td align=center>기업 표준신용등급</td>
+          <td align=center>AAA~AA-</td>
+          <td align=center>A+~A-</td>
+          <td align=center>BBB+~BB-</td>
+          <td align=center>BB- 미만</td>
+          <td align=center>무등급</td>
+      </tr>
+      <tr>
+          <td align=center>위험가중치</td>
+          <td align=center>20%</td>
+          <td align=center>50%</td>
+          <td align=center>100%</td>
+          <td align=center>150%</td>
+          <td align=center>100%</td>
+      </tr>
+  </table>
+
+
 <br>
 
 ## 15. 은행, 증권사 및 종금사에 대한 채권
@@ -314,6 +322,8 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         </tr>
     </table>
 </details>
+
+
 <br>
 
 ## 16. 소매포트폴리오
@@ -349,6 +359,18 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         </blockquote>
     </ul>
 </details>
+<details>
+    <summary>💡My opinion or Question</summary>
+    <br>
+    <ul>
+        <li>
+            O.1. "회전 한도거래"이란 무엇인가?<br>
+        </li>
+        <blockquote></blockquote>
+    </ul>
+</details>
+
+
 <br>
 
 ## 17. 부동산 담보 채권
@@ -451,5 +473,107 @@ Last edited : 2025년 05월 13일, Created : 2025년 05월 12일
         </blockquote>
     </ul>
 </details>
+<details>
+    <summary>💡My opinion or Question</summary>
+    <br>
+    <ul>
+        <li>
+            O.1. "일반 대손충당금과 특정 대손충당금"의 차이는 무엇인가?<br>
+        </li>
+        <blockquote></blockquote>
+    </ul>
+</details>
+
+
+<br>
+
+## 19. 기타 채권
+
+고위험 자산, 간접투자증권, 기타 난내자산 등에 대해서는 표준신용등급 부여 여부와 상관없이 정해진 위험가중치를 적용한다. 
+
+⚠️`유동화와 관련된 채권`은 유동화익스포져 부분을 따른다. 
+
+- 고위험 자산
+  - 출자전환채권, 비상장주식 및 지분증권에 대해서는 150%의 위험가중치 적용
+- 간접투자증권
+  - 약관상 당해 ⚠️`간접투자증권` 편입가능자산의 위험가중치 중 가장 높은 위험가중치를 적용하거나 약관상 편입한도비율에 따라 위험가중치를 적용(위험가중치가 높은 편입한도비율부터 적용)
+    - 다만, 최저 위험가중치는 20%
+- 기타 난내자산
+  - 유동화와 관련된 채권을 제외한 기타 난내자산에 대해서는 감독당국에서 제시하는 위험가중치를 적용(<부록 2> 참고)
+  - <부록 2>에서 제시되지 않은 난내자산에 대해서는 100% 위험가중치 적용
+
+<br>
+
+<details>
+    <summary>👓예시</summary>
+    <br>
+    은행이 간접투자증권에 100억원(총발행액 500억원)을 투자하고 해당 간접투자증권의 약관상 편입한도비율이 다음과 같은 경우 <br>
+    <table>
+        <tr>
+            <td align=center><b>투자대상</b></td>
+            <td align=center><b>편입한도비율</b></td>
+            <td align=center><b>위험가중치</b></td>
+        </tr>
+        <tr>
+            <td align=center>대한민국 국채(원화표시)</td>
+            <td align=center>20%</td>
+            <td align=center>0%</td>
+        </tr>
+        <tr>
+            <td align=center>금융채(시중은행 발행, BBB+)</td>
+            <td align=center>25%</td>
+            <td align=center>50%</td>
+        </tr>
+        <tr>
+            <td align=center>회사채(무등급)</td>
+            <td align=center>15%</td>
+            <td align=center>100%</td>
+        </tr>
+        <tr>
+            <td align=center>비등록 주식</td>
+            <td align=center>5%</td>
+            <td align=center>150%</td>
+        </tr>
+        <tr>
+            <td align=center>회사채(A-)</td>
+            <td align=center>30%</td>
+            <td align=center>50%</td>
+        </tr>
+        <tr>
+            <td align=center>상장주식(BBB-)</td>
+            <td align=center>5%</td>
+            <td align=center>100%</td>
+        </tr>
+    </table>
+    <br>
+    <ul>
+        <li>방법 1 : 가장 높은 위험가중치 적용</li>
+        <blockquote>
+            > 위험가중자산 = 100억원 × 150% = 150억원
+        </blockquote>
+        <li>방법 2 : 약관상 편입한도비율에 따라 위험가중치 적용</li>
+        <blockquote>
+            > 위험가중치 = 20% × 0% + 25% × 50% + 15% × 100% + 5% × 150% + 30% × 50% + 5% × 100% = 55% <br>
+            > 위험가중자산 = 100억원 × 55% = 55억원
+        </blockquote>
+    </ul>
+</details>
+
+
+<details>
+    <summary>💡My opinion or Question</summary>
+    <br>
+    <ul>
+        <li>
+            O.1. "유동화와 관련된 채권"의 개념은 무엇인가?<br>
+        </li>
+        <blockquote></blockquote>
+        <li>
+            O.2. "간접투자증권"의 개념은 무엇인가?<br>
+        </li>
+        <blockquote></blockquote>
+    </ul>
+</details>
+
 
 <br>
