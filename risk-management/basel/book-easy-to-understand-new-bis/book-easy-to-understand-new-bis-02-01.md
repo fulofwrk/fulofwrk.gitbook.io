@@ -52,8 +52,6 @@ Last edited : 2025년 05월 15일, Created : 2025년 05월 12일
         <td align=center>100%</td>
     </tr>
 </table>
-
-
 - 국제결제은행(BIS), 국제통화기금(IMF), 유럽중앙은행(ECB) 및 유럽연합(EC)에 대한 채권은 0%의 위험가중치 적용
 
 <details>
@@ -76,8 +74,6 @@ Last edited : 2025년 05월 15일, Created : 2025년 05월 12일
         </blockquote>
     </ul>
 </details>
-
-
 <details>
     <summary>💡My opinion or Question</summary>
     <br>
@@ -92,7 +88,6 @@ Last edited : 2025년 05월 15일, Created : 2025년 05월 12일
         <blockquote></blockquote>>
     </ul>
 </details>
-
 <br>
 
 ## 12. 공공기간에 대한 채권
@@ -322,8 +317,6 @@ Last edited : 2025년 05월 15일, Created : 2025년 05월 12일
         </tr>
     </table>
 </details>
-
-
 <br>
 
 ## 16. 소매포트폴리오
@@ -369,8 +362,6 @@ Last edited : 2025년 05월 15일, Created : 2025년 05월 12일
         <blockquote></blockquote>
     </ul>
 </details>
-
-
 <br>
 
 ## 17. 부동산 담보 채권
@@ -399,8 +390,6 @@ Last edited : 2025년 05월 15일, Created : 2025년 05월 12일
         </blockquote>
     </ul>
 </details>
-
-
 <br>
 
 ## 18. 연체채권
@@ -483,8 +472,6 @@ Last edited : 2025년 05월 15일, Created : 2025년 05월 12일
         <blockquote></blockquote>
     </ul>
 </details>
-
-
 <br>
 
 ## 19. 기타 채권
@@ -558,8 +545,6 @@ Last edited : 2025년 05월 15일, Created : 2025년 05월 12일
         </blockquote>
     </ul>
 </details>
-
-
 <details>
     <summary>💡My opinion or Question</summary>
     <br>
@@ -574,6 +559,28 @@ Last edited : 2025년 05월 15일, Created : 2025년 05월 12일
         <blockquote></blockquote>
     </ul>
 </details>
+<br>
 
+## 20. 적격 외부신용평가기관
+
+표준방법을 사용하는 금융기관은 위험가중치 산정시 감독원장이 지정하는 적격 외부신용평가기관의 신용평가등급을 사용하여야 한다. 
+
+- 적격 외부신용평가기관의 요건
+  - 적격 외부신용평가기관은 객관성, 독립성, 국제적 이용가능성 및 투명성, 공시의 적정성, 신뢰성 등의 요건을 갖추어야 함
+- 적격 외부신용평가기관의 지정 및 적용
+  - 감독원장은 적격요건을 검토하여 적격 외부신용평가기관으로 지정하거나 적격 외부신용평가기관에서 제외시킬 수 있음
+  - ⚠️`감독원장은 외국의 감독당국이 인정하는 적격 외부신용평가기관은 별도의 평가 없이 적격 외부신용평가기관으로 지정할 수 있음`
+  - 금융기관이 위험가중치 부여를 위하여 적격 외부신용평가기관을 선택하는 경우 동 기관의 평가결과를 일관되게 사용해야 하며, 다수의 평가기관이 제공한 평가결과 중 유리한 것만을 선택적으로 사용할 수 없음
+
+<details>
+    <summary>💡My opinion or Question</summary>
+    <br>
+    <ul>
+        <li>
+            Q.1. 외국의 감독당국이 인정하는 적격 외부신용평기관은 별도의 평가가 왜 없나? <br>
+        </li>
+        <blockquote></blockquote>
+    </ul>
+</details>
 
 <br>
