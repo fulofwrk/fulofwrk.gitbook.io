@@ -26,6 +26,7 @@
 
 * [SQL](language/sql/README.md)
   * [SQL Test](language/sql/sql-test/README.md)
+    * [Programmers No.164673](language/sql/sql-test/programmers-164673.md)
     * [Programmers No.131112](language/sql/sql-test/programmers-131112.md)
     * [Programmers No.132203](language/sql/sql-test/programmers-132203.md)
     * [Programmers No.151136](language/sql/sql-test/programmers-151136.md)
