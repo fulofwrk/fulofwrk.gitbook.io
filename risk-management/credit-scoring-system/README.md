@@ -1,6 +1,0 @@
-# Credit Scoring System
-
----
-
-<br>
-

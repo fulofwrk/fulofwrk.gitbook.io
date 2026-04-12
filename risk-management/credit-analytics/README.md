@@ -1,6 +1,0 @@
-# Credit Analytics
-
----
-
-<br>
-

@@ -1,6 +1,0 @@
-# Indicator & Monitoring
-
----
-
-<br>
-

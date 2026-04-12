@@ -5,51 +5,10 @@
 
 ## Risk Management
 
-* [Basel](risk-management/basel/README.md)
-  * [Book: 알기 쉬운 신BIS](risk-management/basel/book-easy-to-understand-new-bis/README.md)
-    * [1. 신BIS협약이란?](risk-management/basel/book-easy-to-understand-new-bis/book-easy-to-understand-new-bis-01.md)
-      * [1.1. 신BIS협약의 개요](risk-management/basel/book-easy-to-understand-new-bis/book-easy-to-understand-new-bis-01-01.md)
-    * [2. 표준방법이란?](risk-management/basel/book-easy-to-understand-new-bis/book-easy-to-understand-new-bis-02.md)
-      * [2.1. 위험가중치 적용](risk-management/basel/book-easy-to-understand-new-bis/book-easy-to-understand-new-bis-02-01.md)
-* [Products](risk-management/products/README.md)
-* [Indicator & Monitoring](risk-management/indicator-and-monitoring/README.md)
-  * [Roll Rate Analysis](risk-management/indicator-and-monitoring/roll-rate-analysis.md)
-* [Credit Analytics](risk-management/credit-analytics/README.md)
-* [Credit Scoring System](risk-management/credit-scoring-system/README.md)
-
-## Data Analytics
-
-* [A/B Test](data-analytics/ab-test/README.md)
-  * [Book: A/B Test](data-analytics/ab-test/book-ab-test/README.md)
 
 ## Language
 
 * [SQL](language/sql/README.md)
-  * [SQL Test](language/sql/sql-test/README.md)
-    * [Programmers No.59034](language/sql/sql-test/programmers-59034.md)
-    * [Programmers No.59035](language/sql/sql-test/programmers-59035.md)
-    * [Programmers No.59036](language/sql/sql-test/programmers-59036.md)
-    * [Programmers No.59037](language/sql/sql-test/programmers-59037.md)
-    * [Programmers No.59403](language/sql/sql-test/programmers-59403.md)
-    * [Programmers No.59404](language/sql/sql-test/programmers-59404.md)
-    * [Programmers No.59405](language/sql/sql-test/programmers-59405.md)
-    * [Programmers No.131112](language/sql/sql-test/programmers-131112.md)
-    * [Programmers No.131118](language/sql/sql-test/programmers-131118.md)
-    * [Programmers No.131535](language/sql/sql-test/programmers-131535.md)
-    * [Programmers No.131697](language/sql/sql-test/programmers-131697.md)
-    * [Programmers No.132201](language/sql/sql-test/programmers-132201.md)
-    * [Programmers No.132203](language/sql/sql-test/programmers-132203.md)
-    * [Programmers No.133024](language/sql/sql-test/programmers-133024.md)
-    * [Programmers No.133025](language/sql/sql-test/programmers-133025.md)
-    * [Programmers No.144853](language/sql/sql-test/programmers-144853.md)
-    * [Programmers No.151136](language/sql/sql-test/programmers-151136.md)
-    * [Programmers No.164673](language/sql/sql-test/programmers-164673.md)
-    * [Programmers No.276013](language/sql/sql-test/programmers-276013.md)
-    * [Programmers No.293258](language/sql/sql-test/programmers-293258.md)
-    * [Programmers No.298517](language/sql/sql-test/programmers-298516.md)
-    * [Programmers No.301646](language/sql/sql-test/programmers-301646.md)
-  * [SQL for DA & RM](language/sql/sql-for-da-and-rm/README.md)
-* [SAS](language/sas.md)
 * [Python](language/python.md)
 
 ## Git
