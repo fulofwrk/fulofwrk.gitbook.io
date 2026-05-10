@@ -7,6 +7,8 @@
 
 * [Exchange](exchange/README.md)
   * [Risk Management](exchange/risk%20management/README.md)
+    * [Market Surveillance](exchange/risk%20management/market%20surveillance/README.md)
+    * [Compliance / AML](exchange/risk%20management/compliance%20aml/README.md)
 
 ## CryptoCurrency
 
